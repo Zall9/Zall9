@@ -5,3 +5,5 @@ Coucou
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<img src="https://github.com/zall9/zall9/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
