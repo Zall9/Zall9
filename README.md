@@ -1,9 +1,10 @@
 Coucou  
 ![Alt text](https://raw.githubusercontent.com/zall9/zall9/output/github-contribution-grid-snake.svg)
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<img src="https://github.com/zall9/zall9/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
+![Alt text] (https://github.com/zall9/zall9/blob/<branch-name>/images/stat.svg)
