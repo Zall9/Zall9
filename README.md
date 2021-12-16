@@ -25,6 +25,6 @@ INI             1 min           ▒░░░░░░░░░░░░░░░
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zall9&show_icons=true&locale=en&theme=tokyonight " alt="zall9" />
 </p>
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zall9&theme=tokyonight" alt="zall9" /></p>
-<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heargo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zall9" /></p>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zall9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zall9" /></p>
 <br>
 <p  align="center">Note : Languages statistics are based on my public repo and doesn't represent my skills.</p>
