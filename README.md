@@ -2,7 +2,7 @@
 <h3 align="center">Student in USMB </h3>
 
 - ⌨️ I'm currently learning ReactJS | GraphQL | MongoDB | NodeJS ⌨️
-- 🔎 My Website <a href=" https://Zall.dev">Zall.dev</a>
+- 🔎 My Website: <a href="https://Zall.dev" >Zall.dev</a>
 ![Alt text](https://raw.githubusercontent.com/zall9/zall9/output/github-contribution-grid-snake.svg)
 
 ## 📈 Stats
