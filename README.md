@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Paul</h1>
+<h1 align="center">Hello there, I'm Paul</h1> 
 <h3 align="center">Student in USMB </h3>
 
 - ⌨️ I'm currently learning ReactJS | GraphQL | MongoDB | NodeJS ⌨️
@@ -7,7 +7,6 @@
 
 ## 📈 Stats
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zall9&label=Profile%20views&color=0e75b6&style=flat" alt="zall9" /> </p>
 
 
 <!--START_SECTION:waka-->
@@ -28,3 +27,4 @@ INI             1 min           ▒░░░░░░░░░░░░░░░
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zall9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zall9" /></p>
 <br>
 <p  align="center">Note : Languages statistics are based on my public repo and doesn't represent my skills.</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zall9&label=Profile%20views&color=0e75b6&style=flat" alt="zall9" /> </p>
