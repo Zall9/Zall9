@@ -12,5 +12,3 @@ PHP             17 mins         ██▓░░░░░░░░░░░░░
 INI             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
-
-![Alt text](https://github.com/zall9/zall9/blob/main/images/stat.svg)
