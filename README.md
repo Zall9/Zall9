@@ -5,6 +5,21 @@
 - 🔎 My Website Zall.dev
 ![Alt text](https://raw.githubusercontent.com/zall9/zall9/output/github-contribution-grid-snake.svg)
 
+## 📈 Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zall9&show_icons=true&locale=en&theme=tokyonight " alt="zall9" />
+</p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zall9&theme=tokyonight" alt="zall9" /></p>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heargo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zall9" /></p>
+<br>
+<p  align="center">Note : Languages statistics are based on my public repo and doesn't represent my skills.</p>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zall9&label=Profile%20views&color=0e75b6&style=flat" alt="zall9" /> </p>
+
+
 <!--START_SECTION:waka-->
 ```text
 Week: 09 December, 2021 - 15 December, 2021
