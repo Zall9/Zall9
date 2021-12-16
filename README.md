@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Paul</h1> 
 <h3 align="center">Student in USMB </h3>
 
-- ⌨️ I'm currently learning ReactJS | GraphQL | MongoDB | NodeJS ⌨️
+- ⌨️ I'm currently learning ReactJS | GraphQL | MongoDB | NodeJS | TypeScript ⌨️
 - 🔎 My Website: <a href="" ></a>
 ![Alt text](https://raw.githubusercontent.com/zall9/zall9/output/github-contribution-grid-snake.svg)
 
