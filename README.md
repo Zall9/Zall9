@@ -13,4 +13,4 @@ INI             1 min           ▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![Alt text](https://github.com/zall9/zall9/blob/<branch-name>/images/stat.svg)
+![Alt text](https://github.com/zall9/zall9/blob/main/images/stat.svg)
