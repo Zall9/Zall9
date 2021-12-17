@@ -27,4 +27,10 @@ Other           19 mins         █░░░░░░░░░░░░░░░
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zall9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zall9" /></p>
 <br>
 <p  align="center">Note : Languages statistics are based on my public repo and doesn't represent my skills.</p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=zall9&label=Profile%20views&color=0e75b6&style=flat" alt="zall9" /> </p>
+<p>
+  <ul>
+    
+    <li align="center"><img src="https://komarev.com/ghpvc/?username=zall9&label=Profile%20views&color=0e75b6&style=flat" alt="zall9" /></li>
+    <li align="center"><img src="https://wakatime.com/badge/user/7e787948-bc72-4702-af7b-d57420a332e8.svg"/></li>
+  </ul>
+</p>
