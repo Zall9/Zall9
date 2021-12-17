@@ -29,7 +29,8 @@ Other           19 mins         █░░░░░░░░░░░░░░░
 <p  align="center">Note : Languages statistics are based on my public repo and doesn't represent my skills.</p>
 <p>
   <ul style="list-style-type: none;">
-    <li align="left"><img src="https://komarev.com/ghpvc/?username=zall9&label=Profile%20views&color=0e75b6&style=flat" alt="zall9" /></li>
-    <li align="left"><img src="https://wakatime.com/badge/user/7e787948-bc72-4702-af7b-d57420a332e8.svg" /></li>
+    <li align="left"><img src="https://komarev.com/ghpvc/?username=zall9&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="zall9" /></li>
+    <li align="left"> <a href="https://wakatime.com/@7e787948-bc72-4702-af7b-d57420a332e8"><img src="https://wakatime.com/badge/user/7e787948-bc72-4702-af7b-d57420a332e8.svg?style=for-the-badge" alt="Total time coded since Dec 15 2021" /></a> </li>
   </ul>
 </p>
+
