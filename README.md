@@ -13,11 +13,11 @@
 ```text
 Week: 16 December, 2021 - 22 December, 2021
 
-C               7 hrs 40 mins   ████████░░░░░░░░░░░░░░░░░   32.13 % 
-JavaScript      5 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-Markdown        4 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Cassandra CQL   2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Text            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+C               7 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   36.03 % 
+JavaScript      5 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+Markdown        3 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Cassandra CQL   1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Text            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
