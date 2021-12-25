@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 December, 2021 - 23 December, 2021
+Week: 18 December, 2021 - 24 December, 2021
 
 JavaScript      5 hrs 53 mins   █████████░░░░░░░░░░░░░░░░   36.24 % 
 C               5 hrs 25 mins   ████████▒░░░░░░░░░░░░░░░░   33.37 % 
