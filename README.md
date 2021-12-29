@@ -13,9 +13,7 @@
 ```text
 Week: 22 December, 2021 - 28 December, 2021
 
-JavaScript   2 hrs 56 mins   ███████████████████████▒░   93.27 % 
-JSON         11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-SCSS         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JavaScript   46 mins         █████████████████████████   99.66 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
