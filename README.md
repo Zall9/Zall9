@@ -11,7 +11,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 January, 2022 - 11 January, 2022
+
+Smalltalk   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
