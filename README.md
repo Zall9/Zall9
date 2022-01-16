@@ -13,8 +13,9 @@
 ```text
 Week: 09 January, 2022 - 15 January, 2022
 
-Other       11 mins         █████████████████████▓░░░   86.48 % 
-Smalltalk   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+JSON        16 mins         █████████████▒░░░░░░░░░░░   53.93 % 
+Other       12 mins         ██████████░░░░░░░░░░░░░░░   40.39 % 
+Smalltalk   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
