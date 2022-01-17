@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
 JSON        16 mins         █████████████▒░░░░░░░░░░░   53.93 % 
 Other       12 mins         ██████████░░░░░░░░░░░░░░░   40.39 % 
