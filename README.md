@@ -13,9 +13,7 @@
 ```text
 Week: 16 January, 2022 - 22 January, 2022
 
-Markdown   36 mins         ████████████████▓░░░░░░░░   67.01 % 
-JSON       16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.11 % 
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Markdown   36 mins         ████████████████████████▓   99.13 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
