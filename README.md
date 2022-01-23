@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
 Markdown   36 mins         ████████████████▓░░░░░░░░   67.01 % 
 JSON       16 mins         ███████▓░░░░░░░░░░░░░░░░░   30.11 % 
