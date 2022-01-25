@@ -13,7 +13,10 @@
 ```text
 Week: 18 January, 2022 - 24 January, 2022
 
-Markdown   36 mins         ████████████████████████▓   99.26 % 
+C            4 hrs 45 mins   █████████████████████▓░░░   87.16 % 
+Markdown     36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
