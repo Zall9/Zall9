@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
 C       7 hrs 40 mins   ████████████████▒░░░░░░░░   65.75 % 
 Java    3 hrs 17 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 % 
