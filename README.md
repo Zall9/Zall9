@@ -11,7 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
 C          5 hrs 13 mins   ██████████████████████▓░░   91.08 % 
 Other      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
