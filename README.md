@@ -13,9 +13,7 @@
 ```text
 Week: 07 February, 2022 - 13 February, 2022
 
-C          5 hrs 13 mins   ███████████████████████▓░   94.89 % 
-JSON       13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Makefile   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+C          4 hrs 39 mins   █████████████████████████   99.68 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
