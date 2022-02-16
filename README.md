@@ -13,9 +13,9 @@
 ```text
 Week: 09 February, 2022 - 15 February, 2022
 
-Total: 4 hrs 24 mins
+Total: 3 hrs 6 mins
 
-C          4 hrs 23 mins   █████████████████████████   99.66 % 
+C      3 hrs 6 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
