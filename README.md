@@ -13,8 +13,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 2 hrs 46 mins
-
 C          2 hrs 46 mins   █████████████████████████   99.83 % 
 ```
 <!--END_SECTION:waka-->
