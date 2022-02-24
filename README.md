@@ -11,9 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
-
-C          2 hrs 46 mins   █████████████████████████   99.83 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <p align="center">
