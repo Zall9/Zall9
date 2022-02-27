@@ -10,9 +10,11 @@
 
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zall9&show_icons=true&locale=en&theme=tokyonight " alt="zall9" />
