@@ -12,7 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 21 February 2022 - To: 28 February 2022
+
+Python   2 hrs 18 mins   █████████████████████████   100.00 %
+Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
