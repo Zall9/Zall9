@@ -12,10 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 February 2022 - To: 28 February 2022
+From: 22 February 2022 - To: 01 March 2022
 
-Python   2 hrs 18 mins   █████████████████████████   100.00 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python     2 hrs 40 mins   ████████████████████▒░░░░   81.87 %
+JSON       34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
