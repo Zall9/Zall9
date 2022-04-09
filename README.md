@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 March 2022 - To: 07 April 2022
+From: 01 April 2022 - To: 08 April 2022
 
-C          8 hrs 39 mins   ██████████████▒░░░░░░░░░░   57.06 %
-Python     5 hrs 37 mins   █████████▒░░░░░░░░░░░░░░░   37.05 %
-Markdown   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python     7 hrs 10 mins   ██████████████▓░░░░░░░░░░   58.54 %
+C          4 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   34.18 %
+Markdown   49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
