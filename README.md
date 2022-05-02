@@ -12,12 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2022 - To: 30 April 2022
+From: 24 April 2022 - To: 01 May 2022
 
-Java         2 hrs 17 mins   ███████████▓░░░░░░░░░░░░░   46.34 %
-JavaScript   1 hr 54 mins    █████████▓░░░░░░░░░░░░░░░   38.63 %
-Markdown     40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Python       4 hrs 40 mins   ██████████████░░░░░░░░░░░   55.46 %
+JavaScript   1 hr 54 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+Java         1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+Markdown     40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
