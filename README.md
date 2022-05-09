@@ -12,12 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
-Python     11 hrs 49 mins  ████████████████████████▒   97.81 %
-Java       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python     7 hrs 8 mins    ████████████████████████▓   99.17 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
