@@ -12,12 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 May 2022 - To: 26 May 2022
-
-Bash         18 mins         ████████▓░░░░░░░░░░░░░░░░   34.69 %
-JavaScript   13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.51 %
-Docker       10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
-Other        8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
