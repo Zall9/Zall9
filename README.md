@@ -12,7 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 23 May 2022 - To: 30 May 2022
+
+Python       2 hrs 33 mins   █████████████▓░░░░░░░░░░░   55.17 %
+JSON         39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 %
+Bash         36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+YAML         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+Other        19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
 ```
 
 <!--END_SECTION:waka-->
