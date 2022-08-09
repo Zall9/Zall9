@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 July 2022 - To: 07 August 2022
+From: 01 August 2022 - To: 08 August 2022
 
-Bash         5 mins          ███████████▒░░░░░░░░░░░░░   45.95 %
-JavaScript   4 mins          ████████▓░░░░░░░░░░░░░░░░   35.15 %
-Other        2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+JavaScript   6 mins          █████████████▓░░░░░░░░░░░   54.19 %
+Bash         5 mins          ███████████▒░░░░░░░░░░░░░   45.81 %
 ```
 
 <!--END_SECTION:waka-->
