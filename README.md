@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
 Dart         3 hrs 13 mins   ████████████▒░░░░░░░░░░░░   49.08 %
 Python       1 hr 32 mins    ██████░░░░░░░░░░░░░░░░░░░   23.35 %
