@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 October 2022 - To: 13 October 2022
+From: 07 October 2022 - To: 14 October 2022
 
 Dart         3 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   30.62 %
 Java         2 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
