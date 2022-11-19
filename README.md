@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Paul</h1> 
-<h3 align="center">Student in USMB </h3>
+<h3 align="center">Master 1 IT Student at USMB </h3>
 
 - ⌨️ I'm currently learning Angular | NestJs | NextJs | TypeScript ⌨️
 ![Alt text](https://raw.githubusercontent.com/zall9/zall9/output/github-contribution-grid-snake.svg)
