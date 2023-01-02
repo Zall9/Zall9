@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 December 2022 - To: 31 December 2022
+From: 25 December 2022 - To: 01 January 2023
 
 Java       1 hr 27 mins    ████████████████████████▒   97.93 %
 CLASS      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
