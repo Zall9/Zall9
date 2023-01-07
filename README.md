@@ -11,11 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 December 2022 - To: 05 January 2023
-
-Java       1 hr 27 mins    ████████████████████████▒   97.93 %
-CLASS      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
