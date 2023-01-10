@@ -11,7 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 January 2023 - To: 09 January 2023
+
+Java             1 hr 51 mins    █████████████████▒░░░░░░░   69.53 %
+XML              27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+YAML             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+CLASS            8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
