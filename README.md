@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 28 January 2023
+From: 22 January 2023 - To: 29 January 2023
 
-TypeScript       10 hrs 37 mins  ███████████████████████▓░   94.40 %
-JSON             31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-yarn.lock        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+TypeScript       10 hrs 50 mins  ████████████████░░░░░░░░░   63.70 %
+JavaScript       5 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.15 %
+JSON             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Markdown         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+GitIgnore file   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
