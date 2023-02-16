@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 February 2023 - To: 14 February 2023
+From: 08 February 2023 - To: 15 February 2023
 
-JavaScript       5 hrs 16 mins   ██████████████████░░░░░░░   71.61 %
-TypeScript       56 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-Common Lisp      29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-GitIgnore file   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-textmate         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Java             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+JavaScript       5 hrs           ███████████████▓░░░░░░░░░   62.94 %
+TypeScript       51 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+XML              38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Common Lisp      29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+GitIgnore file   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Java             21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
 ```
 
 <!--END_SECTION:waka-->
