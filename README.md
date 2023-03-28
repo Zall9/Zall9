@@ -22,9 +22,6 @@ HTML             1 hr 2 mins     █▓░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zall9&show_icons=true&locale=en&theme=tokyonight " alt="zall9" />
-</p>
 <p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zall9&theme=tokyonight" alt="zall9" /></p>
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zall9&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zall9" /></p>
 <br>
